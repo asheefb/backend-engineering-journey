@@ -232,17 +232,9 @@ Java is widely used in:
 * Big data infrastructure.
 * Android development (alongside Kotlin).
 
-For our career goal, the most important areas are:
-
-**Java + Spring Boot + SQL + Microservices + System Design.**
-
-Our HRMS project will give us practical experience applying these concepts.
-
----
+----
 
 # Interview Assessment — Your Turn
-
-Don't search for answers. Explain in your own words.
 
 **Question 1:**
 
